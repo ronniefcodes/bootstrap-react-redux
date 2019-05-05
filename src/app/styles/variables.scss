@@ -1,0 +1,27 @@
+// BREAKPOINTS
+$small: 480px;
+$medium: 768px;
+$large: 1024px;
+$x-large: 1280px;
+
+$mobile: 0;
+$tablet: $small;
+$tablet-landscape: $medium;
+$desktop: $large;
+$large-desktop: $x-large;
+
+// COLORS
+$black: #222;
+$gray: rgb(222, 222, 222);
+$gray-light: rgb(240, 240, 240);
+$white: #fff;
+
+// FONT WEIGHTS
+$light: 300;
+$regular: 400;
+$bold: 700;
+
+// Z-INDICES
+$bottom: 1;
+$middle: 5;
+$top: 10;
